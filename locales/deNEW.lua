@@ -1,6 +1,6 @@
 --- Missed Prashed old file  script:ps-hud] Warning: Missing phrase for key: "info.check_cash_balance"
-[       script:ps-hud] Warning: Missing phrase for key: "info.check_bank_balance"
-[       script:ps-hud] Warning: Missing phrase for key: "info.toggle_dev_mode" ---
+---[       script:ps-hud] Warning: Missing phrase for key: "info.check_bank_balance"
+--- [       script:ps-hud] Warning: Missing phrase for key: "info.toggle_dev_mode"
 
 local Translations = {
     notify = {
@@ -11,7 +11,7 @@ local Translations = {
         ["load_square_map"] = "Viereckige Karte wird geladen...",
         ["loaded_square_map"] = "Viereckige Karte wurde geladen!",
         ["load_circle_map"] = "Runde Karte wird geladen...",
-        ["loaded_circle_map"] = "Runde Karte wurde geladenn!",
+        ["loaded_circle_map"] = "Runde Karte wurde geladen!",
         ["cinematic_on"] = "Kinomodus AN!",
         ["cinematic_off"] = "Kinomodus AUS!",
         ["engine_on"] = "Motor gestartet!",
